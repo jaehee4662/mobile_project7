@@ -18,8 +18,7 @@
             android:id="@+id/mainView"
             android:layout_width="match_parent"
             android:layout_height="550dp"
-
-            app:srcCompat="@drawable/바다" />
+            app:srcCompat="@drawable/main_image" />
 
     </LinearLayout>
 
